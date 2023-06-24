@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DataBase\Script.txt" />
     <Content Include="Global.asax" />
     <Content Include="Index.aspx" />
     <Content Include="Web.config" />
