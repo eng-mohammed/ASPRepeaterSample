@@ -85,6 +85,7 @@
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="Models\employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
